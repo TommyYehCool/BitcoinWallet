@@ -1,0 +1,1 @@
+Compile 有錯時請參考 http://stackoverflow.com/questions/22812488/using-javafx-in-jre-8
