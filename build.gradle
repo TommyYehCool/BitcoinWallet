@@ -40,3 +40,7 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testCompile 'junit:junit:4.+'
 }
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
